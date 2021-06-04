@@ -1,0 +1,6 @@
+set pagination off
+file a.out
+set confirm off
+set verbose off
+layout src
+b main
