@@ -9,4 +9,4 @@ Steps (For Linux):
 
 That should be it.
 
-Note: GDB does not *run* automatically, the only thing you can do once you start gdb is to type ``start``. You don't need to retype the same commands like ``break main`` and ``layout src`` over and over again anymore.
+Note: GDB does not *run* automatically, the only thing you can do once you start gdb is to type ``r``. You don't need to retype the same commands like ``break main`` and ``layout src`` over and over again anymore.
