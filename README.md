@@ -1,6 +1,6 @@
 # quickGDB
 
-quickGDB allows a quicker startup debugging time (or a more user-friendly tool for gdb) for debugging C and C++ files with gdb. If you want ``layout src`` and ``break main`` set up automatically, then this is the file you may need. 
+quickGDB allows you to show the source file from the get-go. If you want ``layout src`` and ``break main`` set up automatically, then this is the file you may need. 
 
 Steps (For Linux):
 
